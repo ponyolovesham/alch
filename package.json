@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@alch/alchemy-web3": "^1.1.4",
     "dotenv": "^10.0.0"
   },
   "devDependencies": {
